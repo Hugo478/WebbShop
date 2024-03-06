@@ -1,0 +1,11 @@
+.MackBox{
+    grid-template-rows: auto;
+    outline-color: white;
+}
+.Img{
+    background-color: grey;
+}
+
+.Färg{
+    background-color: green;
+}
